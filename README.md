@@ -36,4 +36,4 @@ Ambiente de monitoramento de segurança, com análise de logs e File Integrity M
 
 ## Conecte-se comigo!
 
-LinkedIn: [https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/julio-nunes-b97331205/)
+LinkedIn: [LinkedIn - Julio](https://www.linkedin.com/in/julio-nunes-b97331205/)
