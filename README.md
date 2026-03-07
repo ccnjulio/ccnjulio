@@ -9,10 +9,19 @@ Certificado CompTIA Security+ e construindo experiência em:
 • Network Infrastructure  
 • Incident Detection & Analysis
 
-## Certificações
+## Principais Certificações
 
 - CompTIA Security+
 - CompTIA A+
+- ITIL Foundation 4
+
+## Outras Certificações
+
+- Entendimento e Interpretação ISO/IEC 27001:2022 - Sistema de Gestão de Segurança da Informação
+- Pre Security (SEC0) - By TryHackMe
+- Analista SOC (Associado)
+- Boas Práticas de Cibersegurança (Cybersecurity Awareness)
+- Certificado oficial EF SET (C1 Advanced)
 
 ## Projetos
 
