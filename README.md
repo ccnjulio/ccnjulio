@@ -26,12 +26,15 @@ Certificado CompTIA Security+ e construindo experiência em:
 ## Projetos
 
 🔹 [Active Directory Homelab](https://ccnjulio.github.io/ad-infrastructure-lab/)
+
 Implementação de ambiente um Active Directory incluindo DNS, DHCP, GPOs e automação de criação de usuário.
 
 🔹 [Network Infrastructure Lab](https://ccnjulio.github.io/enterprise-network-lab/)
+
 Uma infraestrutura de rede organizacional construída no Cisco Packet Tracer com segmentações de VLAN e roteamento de Layer 3.
 
 🔹 [Wazuh SIEM Lab](https://ccnjulio.github.io/wazuh-siem-security-lab/)
+
 Ambiente de monitoramento de segurança, com análise de logs e File Integrity Monitoring.
 
 ## Conecte-se comigo!
