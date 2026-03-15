@@ -40,3 +40,4 @@ Ambiente de monitoramento de segurança, com análise de logs e File Integrity M
 ## Conecte-se comigo!
 
 LinkedIn: [Clique para Redirecionar](https://www.linkedin.com/in/julio-nunes-sec/)
+[TryHackMe](https://tryhackme-badges.s3.amazonaws.com/CCN.png)
